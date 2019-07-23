@@ -33,7 +33,7 @@
     detail: Software Maestro
     i18n: company_c
   desc:
-    detail: Opinion Mining
+    detail: The Ministry of Science and Technology and the Ministry of Information and Communication established SW Maestro to foster global SW talents that will lead the SW industry.
     i18n: company_c_desc
   date:
     detail: 2015.06 ~ 2016.03
@@ -61,7 +61,7 @@
     detail: Samsung SDS SgenClub
     i18n: company_e
   desc:
-    detail: Participated in software projects
+    detail: Software membership supervised by Samsung SDS. Participated in various software projects. 
     i18n: company_e_desc
   date:
     detail: 2012.04 ~ 2013.10
@@ -75,7 +75,7 @@
     detail: Hanyang University, Computer Engineering
     i18n: company_f
   desc:
-    detail: Bacheler's Degree 
+    detail: Bachelor's Degree 
     i18n: company_f_desc
   date:
     detail: 2012.03 ~ 2016.03
