@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: Technical Skills
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: Deep Learning, Tensorflow, Python, C/C++, Java, Problem Solving, English
+percentage: 70,70,70,70,60,80,90
