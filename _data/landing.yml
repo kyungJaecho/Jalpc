@@ -18,7 +18,7 @@
   tpl: skills.html
   css: team
 
-  - id: career
+- id: career
   i18n: nav.career
   name: Career
   tpl: papers.html
