@@ -53,7 +53,7 @@
     detail: 고윤용, 조경재, 김상욱 한국정보과학회
     i18n: company_d_desc
   date:
-    detail: 2017.01 ~ 2017.04 
+    detail: 2017 
     i18n: company_d_date
   job:
     detail: 'Influence Maximization' 
@@ -61,12 +61,12 @@
   icon: fa-plus-square
 
 - name: 
-  detail: Influence Maximization, Performance Evalutation 
+    detail: Influence Maximization, Performance Evalutation 
     i18n: company_e
   desc:
     detail: KJ Cho, YY Ko, SW Kim ICCC  
     i18n: company_e_desc
-  date: 2016 ~ 2017
+  date: 2016 
     detail: 
     i18n: company_e_date
   job:
