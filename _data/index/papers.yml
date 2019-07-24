@@ -1,23 +1,25 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 # - name: TV Show Recommendatio
-- name: 
-    detail: No, That's Not My Feedback, TV Show Recommendation Using Watchable Interval 
+#
+
+- name:
+    detail: No, That's Not My Feedback, TV Show Recommendation Using Watchable Interval
     i18n: company_a
   desc:
-    detail: KJ Cho, YC Lee, K Han, J Choi, SW Kim 2019 IEEE International Conference on Data Engineering (ICDE) 
+    detail: I am currently working as a researcher in VUNO. Main researches are using deep Learning on EHR data to predict deterioration of patients.  
     i18n: company_a_desc
   date:
     detail: 2019
     i18n: company_a_date
   job:
-    detail: 'Recommendation System' 
+    detail: Recommendation System 
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name: 
-    detail: Efficient and effective influence maximization in social networks: a hybrid-approach 
+    detail: Efficient and effective influence maximization in social networks, a hybrid-approach 
     i18n: company_b
   desc:
     detail: YY Ko, KJ Cho, SW Kim Information Sciences 
@@ -59,7 +61,7 @@
   icon: fa-plus-square
 
 - name: 
-  detail: Influence Maximization: Performance Evalutation 
+  detail: Influence Maximization, Performance Evalutation 
     i18n: company_e
   desc:
     detail: KJ Cho, YY Ko, SW Kim ICCC  
