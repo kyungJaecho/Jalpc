@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 # - name: TV Show Recommendatio
-- name: No, Thats Not My Feedback: TV Show Recommendation Using Watchable Interval
+- name: No, Thats Not My Feedback, TV Show Recommendation Using Watchable Interval
     detail: 
     i18n: company_a
   desc:
@@ -16,7 +16,7 @@
   icon: fa-plus-square
   present: true
 
-- name: Efficient and effective influence maximization in social networks: a hybrid-approach
+- name: Efficient and effective influence maximization in social networks, a hybrid-approach
     detail:  
     i18n: company_b
   desc:
@@ -58,7 +58,7 @@
     i18n: company_d_job
   icon: fa-plus-square
 
-- name: Influence Maximization: Performance Evalutation
+- name: Influence Maximization, Performance Evalutation
     detail: 
     i18n: company_e
   desc:
