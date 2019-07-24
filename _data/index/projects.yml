@@ -21,18 +21,18 @@
 #  img: /static/assets/img/landing/google.png
 #  desc: This is another project.
 
-- name: Influence Maxmization: Performance Evalutation
-  i18n: jalpc
-  gh_user: KJ Cho, YY Ko, SW Kim 한국콘텐츠학회 ICCC
+#- name: Influence Maxmization: Performance Evalutation
+#  i18n: jalpc
+#  gh_user: KJ Cho, YY Ko, SW Kim 한국콘텐츠학회 ICCC
 #  repo: Jalpc
 #  img: /static/assets/img/landing/jekyll.png
-  desc: 
+# desc: 
 
-- name: 커뮤니티 기반 영향력 최대화를 위한 효율적인 CELF 알고리즘
-  i18n: jalpc
-  gh_user: 고윤용,조경재, 김상욱 한국정보과학회
+  #- name: 커뮤니티 기반 영향력 최대화를 위한 효율적인 CELF 알고리즘
+  #i18n: jalpc
+  #gh_user: 고윤용,조경재, 김상욱 한국정보과학회
 #  repo: Jalpc
 #  img: /static/assets/img/landing/jekyll.png
-  desc: 
+#desc: 
 
 
