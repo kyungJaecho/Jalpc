@@ -21,7 +21,7 @@
   - id: career
   i18n: nav.career
   name: Career
-  tpl: paper.html
+  tpl: papers.html
   css: timeline
 
 - id: projects
