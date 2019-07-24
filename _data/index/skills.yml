@@ -1,6 +1,6 @@
 # skills section data
 
-label: Technical Skills
-id : cs
-aspects: Deep Learning, Tensorflow, Python, C/C++, Java, Problem Solving, English
-percentage: 100,70,70,70,60,80,90
+        label: Technical Skills
+        id : cs
+        aspects: Deep Learning, Tensorflow, Python, C/C++, Java, Problem Solving, English
+        percentage: 100, 35, 65, 80, 70, 90, 60

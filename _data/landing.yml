@@ -18,6 +18,13 @@
   tpl: skills.html
   css: team
 
+  #- id: papers
+  #i18n: nav.papers
+  #name: Papers
+  #tpl: paper.html
+  #css: timeline
+
+
 - id: projects
   i18n: nav.projects
   name: Projects

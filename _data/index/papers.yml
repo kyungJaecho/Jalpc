@@ -1,0 +1,86 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Vuno Inc.
+    i18n: company_a
+  desc:
+    detail: I am currently working as a researcher in VUNO. Main researches are using deep Learning on EHR data to predict deterioration of patients.  
+    i18n: company_a_desc
+  date:
+    detail: 2018.03  ~ Present
+    i18n: company_a_date
+  job:
+    detail: Research Scientist (전문연구요원)
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Big Data Science Lab, Hanyang University 
+    i18n: company_b
+  desc:
+    detail: Research in Recommendation System and Influence Maximization
+    i18n: company_b_desc
+  date:
+    detail: 2016.02 ~ 2018.02
+    i18n: company_b_date
+  job:
+    detail: Master's Degree
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Software Maestro
+    i18n: company_c
+  desc:
+    detail: The Ministry of Science and Technology and the Ministry of Information and Communication established SW Maestro to foster global SW talents that will lead the SW industry.
+    i18n: company_c_desc
+  date:
+    detail: 2015.06 ~ 2016.03
+    i18n: company_c_date
+  job:
+    detail: Machine Learning 
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Microsoft Student Partnership
+    i18n: company_d
+  desc:
+    detail: Participated in Imagine Cup 2015 and won first place in Korea Finals
+    i18n: company_d_desc
+  date:
+    detail: 2014.11 ~ 2015.11
+    i18n: company_d_date
+  job:
+    detail: Machine Learning 
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Samsung SDS SgenClub
+    i18n: company_e
+  desc:
+    detail: Software membership supervised by Samsung SDS. Participated in various software projects. 
+    i18n: company_e_desc
+  date:
+    detail: 2012.04 ~ 2013.10
+    i18n: company_e_date
+  job:
+    detail: Software Developer
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: Hanyang University, Computer Engineering
+    i18n: company_f
+  desc:
+    detail: Bachelor's Degree 
+    i18n: company_f_desc
+  date:
+    detail: 2012.03 ~ 2016.03
+    i18n: company_f_date
+  job:
+    detail: Computer Engineering Student
+    i18n: company_f_job
+  icon: fa-plus-square
