@@ -1,14 +1,14 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 # - name: TV Show Recommendatio
-- name: No, Thats Not My Feedback, TV Show Recommendation Using Watchable Interval
-    detail: 
+- name: 
+    detail: No, That's Not My Feedback, TV Show Recommendation Using Watchable Interval 
     i18n: company_a
   desc:
     detail: KJ Cho, YC Lee, K Han, J Choi, SW Kim 2019 IEEE International Conference on Data Engineering (ICDE) 
     i18n: company_a_desc
   date:
-    detail: 2018 ~ 2019
+    detail: 2019
     i18n: company_a_date
   job:
     detail: 'Recommendation System' 
@@ -16,36 +16,36 @@
   icon: fa-plus-square
   present: true
 
-- name: Efficient and effective influence maximization in social networks, a hybrid-approach
-    detail:  
+- name: 
+  detail: Efficient and effective influence maximization in social networks: a hybrid-approach 
     i18n: company_b
   desc:
     detail: YY Ko, KJ Cho, SW Kim Information Sciences 
     i18n: company_b_desc
   date:
-    detail: 2017 ~ 2018
+    detail: 2018
     i18n: company_b_date
   job:
     detail: 'Influence Maximization' 
     i18n: company_b_job
   icon: fa-plus-square
 
-- name: 소셜 네트워크에서 효율적인 영향력 최대화 방안
-    detail: 
+- name: 
+    detail: 소셜 네트워크에서 효율적인 영향력 최대화 방안 
     i18n: company_c
   desc:
     detail: 고윤용, 조경재, 김상욱 정보과학회논문지
     i18n: company_c_desc
   date:
-    detail: 2016.05 ~ 2017.09 
+    detail: 2017 
     i18n: company_c_date
   job:
     detail: 'Influence Maximization' 
     i18n: company_c_job
   icon: fa-plus-square
 
-- name: 커뮤니티 기반 영향력 최대화를 위한 효율적인 CELF 알고리즘
-    detail: 
+- name:
+    detail: 커뮤니티 기반 영향력 최대화를 위한 효율적인 CELF 알고리즘 
     i18n: company_d
   desc:
     detail: 고윤용, 조경재, 김상욱 한국정보과학회
@@ -58,8 +58,8 @@
     i18n: company_d_job
   icon: fa-plus-square
 
-- name: Influence Maximization, Performance Evalutation
-    detail: 
+- name: 
+  detail: Influence Maximization: Performance Evalutation 
     i18n: company_e
   desc:
     detail: KJ Cho, YY Ko, SW Kim ICCC  
