@@ -1,86 +1,72 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Vuno Inc.
+- name: No, That's Not My Feedback: TV Show Recommendation Using Watchable Interval
+    detail: 
     i18n: company_a
   desc:
-    detail: I am currently working as a researcher in VUNO. Main researches are using deep Learning on EHR data to predict deterioration of patients.  
+    detail: KJ Cho, YC Lee, K Han, J Choi, SW Kim 2019 IEEE International Conference on Data Engineering (ICDE) 
     i18n: company_a_desc
   date:
-    detail: 2018.03  ~ Present
+    detail: 2019
     i18n: company_a_date
   job:
-    detail: Research Scientist (전문연구요원)
+    detail: 
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
-- name:
-    detail: Big Data Science Lab, Hanyang University 
+- name: Efficient and effective influence maximization in social networks: a hybrid-approach
+    detail:  
     i18n: company_b
   desc:
-    detail: Research in Recommendation System and Influence Maximization
+    detail: YY Ko, KJ Cho, SW Kim Information Sciences 
     i18n: company_b_desc
   date:
-    detail: 2016.02 ~ 2018.02
+    detail: 2018
     i18n: company_b_date
   job:
-    detail: Master's Degree
+    detail: 
     i18n: company_b_job
   icon: fa-plus-square
 
-- name:
-    detail: Software Maestro
+- name: 소셜 네트워크에서 효율적인 영향력 최대화 방안
+    detail: 
     i18n: company_c
   desc:
-    detail: The Ministry of Science and Technology and the Ministry of Information and Communication established SW Maestro to foster global SW talents that will lead the SW industry.
+    detail: 고윤용, 조경재, 김상욱 정보과학회논문지
     i18n: company_c_desc
   date:
-    detail: 2015.06 ~ 2016.03
+    detail: 2017 
     i18n: company_c_date
   job:
-    detail: Machine Learning 
+    detail:  
     i18n: company_c_job
   icon: fa-plus-square
 
-- name:
-    detail: Microsoft Student Partnership
+- name: 커뮤니티 기반 영향력 최대화를 위한 효율적인 CELF 알고리즘
+    detail: 
     i18n: company_d
   desc:
-    detail: Participated in Imagine Cup 2015 and won first place in Korea Finals
+    detail: 고윤용, 조경재, 김상욱 한국정보과학회
     i18n: company_d_desc
   date:
-    detail: 2014.11 ~ 2015.11
+    detail: 2017 
     i18n: company_d_date
   job:
-    detail: Machine Learning 
+    detail:  
     i18n: company_d_job
   icon: fa-plus-square
 
-- name:
-    detail: Samsung SDS SgenClub
+- name: Influence Maximization: Performance Evalutation
+    detail: 
     i18n: company_e
   desc:
-    detail: Software membership supervised by Samsung SDS. Participated in various software projects. 
+    detail: KJ Cho, YY Ko, SW Kim ICCC  
     i18n: company_e_desc
-  date:
-    detail: 2012.04 ~ 2013.10
+  date: 2016
+    detail: 
     i18n: company_e_date
   job:
-    detail: Software Developer
+    detail: 
     i18n: company_e_job
-  icon: fa-plus-square
-
-- name:
-    detail: Hanyang University, Computer Engineering
-    i18n: company_f
-  desc:
-    detail: Bachelor's Degree 
-    i18n: company_f_desc
-  date:
-    detail: 2012.03 ~ 2016.03
-    i18n: company_f_date
-  job:
-    detail: Computer Engineering Student
-    i18n: company_f_job
   icon: fa-plus-square
