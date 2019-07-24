@@ -66,8 +66,8 @@
   desc:
     detail: KJ Cho, YY Ko, SW Kim ICCC  
     i18n: company_e_desc
-  date: 2016 
-    detail: 
+  date:  
+    detail: 2016 
     i18n: company_e_date
   job:
     detail: 'Influence Maxmization' 
