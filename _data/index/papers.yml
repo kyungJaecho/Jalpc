@@ -7,10 +7,10 @@
     detail: KJ Cho, YC Lee, K Han, J Choi, SW Kim 2019 IEEE International Conference on Data Engineering (ICDE) 
     i18n: company_a_desc
   date:
-    detail: 2019
+    detail: 2018 ~ 2019
     i18n: company_a_date
   job:
-    detail: '' 
+    detail: 'Recommendation System' 
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -22,10 +22,10 @@
     detail: YY Ko, KJ Cho, SW Kim Information Sciences 
     i18n: company_b_desc
   date:
-    detail: 2018
+    detail: 2017 ~ 2018
     i18n: company_b_date
   job:
-    detail: '' 
+    detail: 'Influence Maximization' 
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -36,10 +36,10 @@
     detail: 고윤용, 조경재, 김상욱 정보과학회논문지
     i18n: company_c_desc
   date:
-    detail: 2017 
+    detail: 2016.05 ~ 2017.09 
     i18n: company_c_date
   job:
-    detail: '' 
+    detail: 'Influence Maximization' 
     i18n: company_c_job
   icon: fa-plus-square
 
@@ -50,10 +50,10 @@
     detail: 고윤용, 조경재, 김상욱 한국정보과학회
     i18n: company_d_desc
   date:
-    detail: 2017 
+    detail: 2017.01 ~ 2017.04 
     i18n: company_d_date
   job:
-    detail: '' 
+    detail: 'Influence Maximization' 
     i18n: company_d_job
   icon: fa-plus-square
 
@@ -63,10 +63,10 @@
   desc:
     detail: KJ Cho, YY Ko, SW Kim ICCC  
     i18n: company_e_desc
-  date: 2016
+  date: 2016 ~ 2017
     detail: 
     i18n: company_e_date
   job:
-    detail: '' 
+    detail: 'Influence Maxmization' 
     i18n: company_e_job
   icon: fa-plus-square
