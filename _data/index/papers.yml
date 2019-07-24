@@ -10,7 +10,7 @@
     detail: 2019
     i18n: company_a_date
   job:
-    detail: 
+    detail: '' 
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -25,7 +25,7 @@
     detail: 2018
     i18n: company_b_date
   job:
-    detail: 
+    detail: '' 
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -39,7 +39,7 @@
     detail: 2017 
     i18n: company_c_date
   job:
-    detail:  
+    detail: '' 
     i18n: company_c_job
   icon: fa-plus-square
 
@@ -53,7 +53,7 @@
     detail: 2017 
     i18n: company_d_date
   job:
-    detail:  
+    detail: '' 
     i18n: company_d_job
   icon: fa-plus-square
 
@@ -67,6 +67,6 @@
     detail: 
     i18n: company_e_date
   job:
-    detail: 
+    detail: '' 
     i18n: company_e_job
   icon: fa-plus-square
