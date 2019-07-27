@@ -14,7 +14,7 @@
     detail: 'Influence Maximization'
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  #present: true
 
 - name: 
     detail: 제 36회 한국정보과학회 학생 논문 경진대회 장려상

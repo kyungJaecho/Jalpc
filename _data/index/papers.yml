@@ -14,7 +14,7 @@
     detail: 'Recommendation System'
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  #present:
 
 - name: 
     detail: Efficient and effective influence maximization in social networks, a hybrid-approach 
