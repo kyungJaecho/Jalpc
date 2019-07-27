@@ -8,12 +8,41 @@
 #  img: /static/assets/img/landing/jekyll.png
 #  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-#- name: Python
-#  i18n: cpython
-#  gh_user: python
-#  repo: cpython
-#  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
+- name: Machine learning based fertile days prediction application
+  i18n: SafeDay
+  gh_user: KyungJaeCho
+  repo: SafeDay
+  img: /static/assets/img/landing/python.png
+  desc: Won first place in Imagine Cup 2015 Korea Finals 
+
+
+- name: Opinion mining based product review system 
+  i18n: Software Maestro 
+  gh_user: KyungJaeCho
+  repo: Product Review System
+  img: /static/assets/img/landing/python.png
+  desc: Software Maestro project 
+
+- name: Influence Maximization Algorithm (Hybrid-IM) 
+  i18n: Big Data Science Lab (Hanyang University) 
+  gh_user: KyungJaeCho
+  repo: Influence Maximization
+  img: /static/assets/img/landing/python.png
+  desc: Published in Information Sciences 
+
+- name: TV Show Recommendation System   
+  i18n: Big Data Science Lab (Hanyang University)
+  gh_user: KyungJaeCho
+  repo: TV Show Recommendation System
+  img: /static/assets/img/landing/python.png
+  desc: Published in ICDE 2019, Top Conference in Data Mining  
+
+- name: Deep Learning-based Early Warning System 
+  i18n: Vuno Inc. 
+  gh_user: KyungJaeCho
+  repo: DEWS
+  img: /static/assets/img/landing/python.png
+  desc: Deep Learning-based Early Warning System based on EHR data for deteriorating patients
 
 #- name: Google
 #  i18n: google

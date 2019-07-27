@@ -30,6 +30,13 @@
   tpl: projects.html
   css: project
 
+- id: awards
+  i18n: nav.awards
+  name: Awards
+  tpl: awards.html
+  css: timeline
+
+
 - id: links
   i18n: nav.link
   name: Links

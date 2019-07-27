@@ -1,31 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-# - name: TV Show Recommendatio
-#
 
 - name:
-    detail: No, That's Not My Feedback, TV Show Recommendation Using Watchable Interval
+    detail: 2017 한국컴퓨터종합학술대회 우수발표 논문상
     i18n: company_a
   desc:
-    detail: I am currently working as a researcher in VUNO. Main researches are using deep Learning on EHR data to predict deterioration of patients.  
+    detail:  
     i18n: company_a_desc
   date:
-    detail: 2019
+    detail: 2017
     i18n: company_a_date
   job:
-    detail: Recommendation System 
+    detail: 'Influence Maximization'
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name: 
-    detail: Efficient and effective influence maximization in social networks, a hybrid-approach 
+    detail: 제 36회 한국정보과학회 학생 논문 경진대회 장려상
     i18n: company_b
   desc:
     detail: YY Ko, KJ Cho, SW Kim Information Sciences 
     i18n: company_b_desc
   date:
-    detail: 2018
+    detail: 2017
     i18n: company_b_date
   job:
     detail: 'Influence Maximization' 
@@ -33,43 +31,16 @@
   icon: fa-plus-square
 
 - name: 
-    detail: 소셜 네트워크에서 효율적인 영향력 최대화 방안 
+    detail: Imagine Cup 2015 Korea Finals 1등 
     i18n: company_c
   desc:
-    detail: 고윤용, 조경재, 김상욱 정보과학회논문지
+    detail: 
     i18n: company_c_desc
   date:
-    detail: 2017 
+    detail: 2015 
     i18n: company_c_date
   job:
-    detail: 'Influence Maximization' 
+    detail: 'SafeDay' 
     i18n: company_c_job
   icon: fa-plus-square
 
-- name:
-    detail: 커뮤니티 기반 영향력 최대화를 위한 효율적인 CELF 알고리즘 
-    i18n: company_d
-  desc:
-    detail: 고윤용, 조경재, 김상욱 한국정보과학회
-    i18n: company_d_desc
-  date:
-    detail: 2017 
-    i18n: company_d_date
-  job:
-    detail: 'Influence Maximization' 
-    i18n: company_d_job
-  icon: fa-plus-square
-
-- name: 
-    detail: Influence Maximization, Performance Evalutation 
-    i18n: company_e
-  desc:
-    detail: KJ Cho, YY Ko, SW Kim ICCC  
-    i18n: company_e_desc
-  date:  
-    detail: 2016 
-    i18n: company_e_date
-  job:
-    detail: 'Influence Maxmization' 
-    i18n: company_e_job
-  icon: fa-plus-square

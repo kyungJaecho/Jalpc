@@ -5,13 +5,13 @@
     detail: No, That's Not My Feedback, TV Show Recommendation Using Watchable Interval
     i18n: company_a
   desc:
-    detail: KJ Cho, YC Lee, SW Kim ICDE 2019  
+    detail: KJ Cho, YC Lee, K Han, J Choi, SW Kim 2019 IEEE 35th International Conference on Data Engineering (ICDE) 
     i18n: company_a_desc
   date:
     detail: 2019
     i18n: company_a_date
   job:
-    detail: Recommendation System 
+    detail: 'Recommendation System'
     i18n: company_a_job
   icon: fa-plus-square
   present: true
