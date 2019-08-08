@@ -1,5 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: KCC2019 우수발표논문상
+    i18n: company_a
+  desc:
+    detail:  
+    i18n: company_a_desc
+  date:
+    detail: 2019
+    i18n: company_a_date
+  job:
+    detail: 'TV Show 추천 방안들의 성능 분석'
+    i18n: company_a_job
+  icon: fa-plus-square
 
 - name:
     detail: 2017 한국컴퓨터종합학술대회 우수발표 논문상
